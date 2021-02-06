@@ -1,2 +1,2 @@
 # uiautomator_command
-封装uiautomator常用命令，
+封装uiautomator常用命令
